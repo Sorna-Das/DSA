@@ -18,6 +18,8 @@ bool sum(int n){
      return false; 
 }
 int main(){
-    bool ans = sum(10);
+    int n;
+    cin>>n;
+    bool ans = sum(n);
     cout <<ans<<endl;
 }
