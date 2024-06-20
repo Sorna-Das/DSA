@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 // Initializing an array with any number. 
-// gIn this case, we are putting -24 in an list of an array[10000].
+// In this case, we are putting -24 in an list of an array[10000].
 
 int main(){
     int size= 10000;
